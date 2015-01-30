@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Auto">
+    <Position X="4.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgIAAAAAAwAAEBAAAAAAAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Auto.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusParking">
+    <Position X="7.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAACCAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>BusParking.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CommonParking">
+    <Position X="9.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>hAAAAADIIAAAAAAABQAAAAABAAIEAAAAAAAGAgAAgAA=</HashCode>
+      <FileName>CommonParking.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Parking">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAADAIAAAAAAAAQAAAAAAAAAQAAAAAAAGAgAAAAA=</HashCode>
+      <FileName>Parking.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AutoSearch">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAiAAAAAEAAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>AutoSearch.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParkingCar">
+    <Position X="4.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgIAAAAAAAAAABIAAAAAAAQAJAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ParkingCar.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParkingCarBus">
+    <Position X="5.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAAAAAAEgAAAAAoAAAAAAA=</HashCode>
+      <FileName>ParkingCarBus.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParkingCarSearch">
+    <Position X="6.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAACAAAAAEEAAAAAAAAgAAAAAAAAAAQA=</HashCode>
+      <FileName>ParkingCarSearch.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParkingCarTruck">
+    <Position X="3.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgACBAAAAA=</HashCode>
+      <FileName>ParkingCarTruck.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TruckParking">
+    <Position X="7.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>TruckParking.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InputFromFileException">
+    <Position X="1.75" Y="1.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>InputFromFileException.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="inputNullNumber">
+    <Position X="2" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>inputNullNumber.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
